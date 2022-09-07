@@ -5,6 +5,7 @@ A curated list of awesome Python frameworks, libraries, software and resources.
     - [Staking Contract](#staking-contract)
     - [Token Contract](#token-erc20)
     - [ERC 721A Contract](#erc-721a)
+- [Smart Contract Audit Service Provider](#contrat-audit)
 - [Resources](#resources)
     - [Books](#books)
 - [Contributing](#contributing)
@@ -21,6 +22,14 @@ A curated list of awesome Python frameworks, libraries, software and resources.
     * [Airfoil Token](https://github.com/SouperOS/Smart-Contract-Template/tree/main/scripts) - ERC20 Token
 * ERC 721A
     * [Nakedz](https://etherscan.io/address/0x24d18547c35f2111fe36dc26c690e9e3d9db4eb3#code) - 721A with Merkle Root & Dual Whitelist
+
+### Smart Contract Audit Service Providers
+
+- [Trail of Bits](https://github.com/trailofbits/publications/tree/master/reviews) - Public security audits by the Trail of Bits Team.
+- [OpenZeppelin](https://blog.openzeppelin.com/security-audits/) - Public security audits by the OpenZeppelin Security Team.
+- [Consensys Diligence](https://consensys.net/diligence/audits/) - Public security audits by the Consensys Diligence Team.
+- [MixBytes](https://github.com/mixbytes/audits_public) - Public security audits by the MixBytes Team.
+
 
 # Resources
 
